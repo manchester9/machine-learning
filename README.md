@@ -15,22 +15,41 @@ This repo contains libraries, algorithms, techniques, projects and courses that 
 4. [Waffles]()
 5. [Java]()
 
-### **Algorithms**
+### **Algorithms by Type**
 1. Classification
-    * [TBD]()
-    * [TBD]()
+    * [Logistic Regression]()
+    * [Linear Discriminant Analysis]()
+    * [kNeighbors classifier]()
+    * [DecisionTree classifier]()
+    * [Gaussian NB]()
+    * [SVC]()
 2. Regression 
-    * [TBD]()
-    * [TBD]()
+    * [Linear]()
+    * [LASSO]()
+    * [Elastic Net]()
+    * [KNeighbors Regressor]()
+    * [DecisionTree Regressor]()
+    * [SVR]()
 3. Ensemble
     * [TBD]()
     * [TBD]()
 
-### **Techniques**
-1. [TBD]()
-2. [TBD]()
-2. [TBD]()
-3. [TBD]()
+### **Algorithms by Techniques**
+1. Supervised: Outcome is predicted
+    * [TBD]()
+    * [TBD]()
+    * [TBD]()
+2. Unsupervised: Finding structure or patterns in data
+    * [TBD]()
+    * [TBD]()
+    * [TBD]()
+3. [Reinforcement Learning]()
+4. [Deep Learning]()
+5. [Time Series]()
+
+### **Algorithms by Similarity in the way they work**
+1. Regression: 
+2. Regularization: 
 
 ### **Projects**
 1. [TBD]()
@@ -41,3 +60,7 @@ This repo contains libraries, algorithms, techniques, projects and courses that 
 2. [Machine learning with Python: Udemy]()
 3. [Machine learning nanodegree: Udacity]()
 4. [Artifical intelligence for trading nanodegree: Udacity]()
+
+### **Books**
+1. [Elements of Statistical Learning]()
+2. 
