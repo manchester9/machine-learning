@@ -37,7 +37,7 @@ This repo contains libraries, algorithms, techniques, projects and courses that 
 2. [TBD]()
 
 ### **Courses**
-1. [TBD]()
-2. [TBD]()
-3. [TBD]()
-4. [TBD]()
+1. [Machine learning introduction: Udacity]()
+2. [Machine learning with Python: Udemy]()
+3. [Machine learning nanodegree: Udacity]()
+4. [Artifical intelligence for trading nanodegree: Udacity]()
