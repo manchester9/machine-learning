@@ -67,6 +67,7 @@ This repo contains libraries, algorithms, techniques, projects,  courses and boo
 ### **Courses**
 1. [Machine learning introduction: Udacity]()
 2. [Machine learning with Python: Udemy]()
+3. [Practical Machine learning: Udemy]()
 3. [Machine learning nanodegree: Udacity]()
 4. [Artifical intelligence for trading nanodegree: Udacity]()
 
